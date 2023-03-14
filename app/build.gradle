@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'ru.synergy.fragmentlifecycleexample'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "ru.synergy.fragmentlifecycleexample"
         minSdk 23
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
